@@ -1,6 +1,9 @@
 body {
   padding: 0 2rem;
   margin: 2rem;
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .nes-container:not(:last-child) {
